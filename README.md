@@ -1,5 +1,5 @@
-### Hi there, I am Vineet Mishra 👋
-### Data Science Aspirant !!
+<h1 align="center"> Hi there, I am Vineet Mishra 👋
+<h1 align="center">  Data Science Aspirant !!
 
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/NickkO5/NickkO5/assets/141060923/5bc32607-8029-4d10-a01c-753f22625c68)
 
@@ -42,7 +42,6 @@ I am Vineet Mishra. I am passionate problem solver and like to find solutions wi
 ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ## Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NickkO5&theme=2077)
