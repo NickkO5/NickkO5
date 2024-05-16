@@ -1,7 +1,7 @@
 ### Hi there, I am Vineet Mishra 👋
-### Data Science Aspirant:-
+### Data Science Aspirant !!
 
-<!-- Cover Photo-->
+![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/NickkO5/NickkO5/assets/141060923/5bc32607-8029-4d10-a01c-753f22625c68)
 
 
 <!--Social Profiles-->
